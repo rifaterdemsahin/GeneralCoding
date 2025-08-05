@@ -1,0 +1,5 @@
+/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/obj/Debug/net8.0/GeneralCodingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/obj/Debug/net8.0/GeneralCodingCSharp.AssemblyInfoInputs.cache
+/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/obj/Debug/net8.0/GeneralCodingCSharp.AssemblyInfo.cs
+/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/obj/Debug/net8.0/GeneralCodingCSharp.csproj.CoreCompileInputs.cache
+/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/obj/Debug/net8.0/GeneralCodingCSharp.sourcelink.json
