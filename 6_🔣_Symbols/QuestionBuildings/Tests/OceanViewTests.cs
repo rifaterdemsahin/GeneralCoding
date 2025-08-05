@@ -8,7 +8,7 @@ namespace OceanViewBuildings.Tests
     [TestClass]
     public class OceanViewSolutionTests
     {
-        private OceanViewSolution _solution;
+        private OceanViewSolution _solution = null!;
 
         [TestInitialize]
         public void Setup()
@@ -90,7 +90,7 @@ namespace OceanViewBuildings.Tests
         public void FindOceanViewBuildings_NullArray_ReturnsEmptyList()
         {
             // Arrange
-            int[] buildings = null;
+            int[]? buildings = null;
             var expected = new List<int>();
 
             // Act

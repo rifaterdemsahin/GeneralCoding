@@ -1,0 +1,15 @@
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/OceanView.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/OceanView.AssemblyInfoInputs.cache
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/OceanView.AssemblyInfo.cs
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/OceanView.csproj.CoreCompileInputs.cache
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/OceanView.sourcelink.json
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/bin/Debug/net8.0/OceanView
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/bin/Debug/net8.0/OceanView.deps.json
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/bin/Debug/net8.0/OceanView.runtimeconfig.json
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/bin/Debug/net8.0/OceanView.dll
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/bin/Debug/net8.0/OceanView.pdb
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/OceanView.dll
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/refint/OceanView.dll
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/OceanView.pdb
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/OceanView.genruntimeconfig.cache
+/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/QuestionBuildings/obj/Debug/net8.0/ref/OceanView.dll

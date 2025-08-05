@@ -13,7 +13,7 @@ namespace OceanViewBuildings
         public int Height { get; set; }
         public string Name { get; set; }
 
-        public Building(int index, int height, string name = null)
+        public Building(int index, int height, string? name = null)
         {
             Index = index;
             Height = height;
