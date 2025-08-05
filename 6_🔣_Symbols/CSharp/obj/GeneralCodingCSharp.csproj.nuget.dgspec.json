@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj": {}
+    "/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj": {}
   },
   "projects": {
-    "/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj": {
+    "/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj",
+        "projectUniqueName": "/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj",
         "projectName": "GeneralCodingCSharp",
-        "projectPath": "/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/obj/",
+        "projectPath": "/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj",
+        "packagesPath": "/Users/rifaterdemsahin/.nuget/packages/",
+        "outputPath": "/Users/rifaterdemsahin/projects/GeneralCoding/6_🔣_Symbols/CSharp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/rifaterdemsahin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.18, 8.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.18, 8.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

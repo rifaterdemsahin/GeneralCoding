@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "V2XYMSqJB8U=",
+  "dgSpecHash": "dwwredZtgNE=",
   "success": true,
-  "projectFilePath": "/workspaces/GeneralCoding/6_🔣_Symbols/CSharp/GeneralCodingCSharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/rifaterdemsahin/projects/GeneralCoding/6_\uD83D\uDD23_Symbols/CSharp/GeneralCodingCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/rifaterdemsahin/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/rifaterdemsahin/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/rifaterdemsahin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.18/microsoft.netcore.app.host.osx-arm64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
