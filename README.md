@@ -1,5 +1,6 @@
 # Self Learning Project Template
 ## Goal : Fill the skills gaps by self learning while leveraging technology
+This POC is for a hands on session on General Coding: C#, C++, Hack, PHP
 
 ## 📚 Documentation for the Folder Structure
 
